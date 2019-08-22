@@ -14,6 +14,7 @@ public class Button extends Component {
    * @return true if found, else false
    * 
    */
+    //rushi
 	public boolean findByLabel(String label) {
 		this.label=label;
 		try{
