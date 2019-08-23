@@ -16,6 +16,7 @@ public class Button extends Component {
    */
     //rushi
 //chandhana
+//Devi
 	public boolean findByLabel(String label) {
 		this.label=label;
 		try{
